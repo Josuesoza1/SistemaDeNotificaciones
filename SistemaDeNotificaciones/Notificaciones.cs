@@ -76,7 +76,6 @@ abstract class Notificaciones
    /* public abstract void GuardarNotificacion();
     public abstract void EliminarNotificacion();
 
-
     Estoy dudando si es necesario o no, porque la aplicacion es de notificar solamente
 
     */
